@@ -2,8 +2,8 @@
 英文名>=eng>
 <嵌圖 f=<img n
 <註 n=<fn n
-<釋 n\==<?★
-</釋>=?>
+<釋=<a
+釋>=a>
 <頁碼>=<rubynote t\="
 </頁碼>="/>
 <偏右字>=<rubynote t\="
@@ -19,13 +19,14 @@
 卷>=sarticle>
 冊>=book>
 編>=h0>
+大>=group>
 書>=group>
 章>=article>
-節>=h1>
-類>=h2>
-項>=h3>
-文>=h4>
-篇>=h5>
+節>=je>
+類>=le>
+項>=xa>
+文>=wi>
+篇>=pe>
 年>=year>
 詩>=si>
 著者>=sr>
@@ -33,7 +34,7 @@
 人名>=name>
 問>=ask>
 答>=rep>
-字>=group>
+字>=zi>
 小字>=little>
 原出處>=ptr>
 參考書>=def>
